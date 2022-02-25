@@ -1,0 +1,6 @@
+CLIENT_ID = "872134169973649508"
+CLIENT_SECRET = "XoWXDI3ODBU6wzMFe8wPyX3M_6tm2l0Q"
+REDIRECT_URI = "http://127.0.0.1:5000/login"
+
+DEFAULT_URL = "https://discord.com/api"
+SCOPES = "identify%20email"

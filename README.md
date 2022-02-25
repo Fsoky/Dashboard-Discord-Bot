@@ -1,4 +1,4 @@
-# Исходный код с ролика [DASHBOARD для Discord Bot | Python](https://www.youtube.com/watch?v=N4nEb3mCW7U) (переписанный)
+# [DASHBOARD для Discord Bot | Python](https://www.youtube.com/watch?v=N4nEb3mCW7U) (переписанный)
 
 ## Инструменты 🛠
 ![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)
@@ -18,7 +18,9 @@ $ pip install Flask[async]
 
 
 ## Использование 🎈
-В файл `config.py`, в переменные: *CLIENT_ID*, *CLIENT_SECRET*, записать соответствующие данные. [Официальный портал разработчика](https://discord.com/developers/applications/) \
+В файл `config.py`, в переменные: *CLIENT_ID*, *CLIENT_SECRET*, записать соответствующие данные. \
+[Официальный портал разработчика](https://discord.com/developers/applications/)
+
 **Инструкция:**
 1. Выберите свое приложение (если не существует - создайте)
 2. Перейдите в *Oauth2*
@@ -29,6 +31,8 @@ $ pip install Flask[async]
 ```
 $ python main.py
 ```
+
+![example](https://github.com/Fsoky/Dashboard-Discord-Bot/blob/main/images/example.png)
 
 ### Присоединяйся к нам
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=VK)](https://vk.com/fsoky)
